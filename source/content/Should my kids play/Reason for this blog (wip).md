@@ -1,39 +1,20 @@
----
-title: Reason for this blog
-draft: true
-tags:
-  - gaming
-  - reviews
-  - parenting
----
 I love gaming. I love playing games, I love learning about games, I love interpreting the stories and messages behind games. I love sharing games with new people. I also love playing games with my kids. I have no idea if my kids will love playing games as much as I do, but frankly, that's none of my business what they end up liking. 
 
 However, being a parent, it is my responsibility to make sure that they are playing games that are appropriate for their development. This doesn't mean that I'm going to be forcing games like [Pajama Sam](https://en.wikipedia.org/wiki/Pajama_Sam) on them, but I definitely don't them playing [Grand Theft Auto V](https://en.wikipedia.org/wiki/Grand_Theft_Auto_V) until they can understand the differences between fantasy and reality when it comes to what they see on the screen. 
-
-## Why not just ESRB? 
+# Why not just ESRB? 
 Now, obviously, I recognize that the [ESRB](https://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board) exists (for the United States), but using this singular letter with sometimes a number can be problematic for a number of reasons. 
-
-### Reason 1
+## Reason 1
 Sometimes the ratings seem to change, even if the content doesn't change that much. Frankly, we see a similar shift in ratings for similar content over the years in our movies. For an example, [Halo: Combat Evolved](https://en.wikipedia.org/wiki/Halo:_Combat_Evolved) was given a "M - Mature 17+" rating back in 2001, and twenty years later, [Halo Infinite](https://en.wikipedia.org/wiki/Halo_Infinite) was given a "T - Teen" even though the gameplay more or less remains the exact same. Now, to be fair, I have not played Halo Infinity, so there might very well be some dramatic shift in the single player story line that be the reason for the "lowered" age rating, but I can absolutely see how a person with not much experience might not know why a game was given an "M" rating or what the "E" on the side of the box even means. 
 
-A secondary point to the shifting is just the idea that 
-
-### Reason 2 
+A secondary point to the shifting is  just the idea that 
+## Reason 2 
 To make matters even worse, gaming if very rapidly shifting towards an all digital future. I play most of my games on Steam, the most popular digital storefront for video games made for computers. One glaring issue I have come across with Steam as a store for video games is that it can be difficult to find this ESRB rating. For example, Below is a screenshot if the wonderful game [It Takes Two](https://store.steampowered.com/app/1426210/It_Takes_Two/). 
-![[it-takes-two-steam.png]]
-You may notice that there is a distinct lack of any sort of indication as to what this game is rated at the top of the page. in fact, you have to scroll down a bunch of metadata and links to buy the game before it shows you the age rating. ![[it-takes-two-steam-scroll.png]] Objectively, this isn't a huge problem, however, if you're not looking for it, it can actually be very hard to miss. If we compare the same game's store page on [Epic Games](https://store.epicgames.com/en-US/p/it-takes-two), we see the age rating much higher in the page much more visible to a potential buyer. 
-![[it-takes-two-epic.png]]
+![[it-takes-two-steam.png]]You may notice that there is a distinct lack of any sort of indication as to what this game is rated at the top of the page. in fact, you have to scroll down a bunch of metadata and links to buy the game before it shows you the age rating. ![[it-takes-two-steam-scroll.png]] Objectively, this isn't a huge problem, however, if you're not looking for it, it can actually be very hard to miss. If we compare the same game's store page on [Epic Games](https://store.epicgames.com/en-US/p/it-takes-two), we see the age rating much higher in the page much more visible to a potential buyer. ![[it-takes-two-epic.png]]
 This steam store problem can be made worse if once we are talking about indie games that haven't gotten big enough to release on other platforms like consoles or phones. An example of this is one of my favorite games [TUNIC](https://store.steampowered.com/app/553420/TUNIC/). This page does not have *any* indication of an ESRB Rating. Likewise, their [itch.io](https://finji.itch.io/tunic) pages does not show any ratings either. However, I assume they must have gotten some rating at some point by the ESRB because the store page for the [Nintendo Switch](https://www.nintendo.com/us/store/products/tunic-switch/) indicates "Everyone 10+", but once again, when using the website, it falls close to the bottom of the page, after you scroll down past the purchase link and description of the game. 
 
-## Get on with it
-This long-winded rant aims to drive home two points: 
-1. Age ratings can be difficult to *find* in a digital gaming landscape. 
+This long winded rant aims to drive home two points: 
+1. Age ratings can be difficult to *find* in an a digital gaming landscape. 
 2. Age ratings can be difficult to *understand* even if you can find them. 
-
 In my opinion, the only way to realistically fix these problems is to play the game, watch the entire game play out in a gameplay video, or to talk to someone who has actually played the game. Each of these options presents a problem. 
-
-### First Solution
-We cannot expect everyone to play every game to find the ones that are right for their families. Gaming can be difficult for people who don't already play a lot of games. Gaming can have a very high barrier to entry. Most games have been build on assumptions and conventions that the artform has iterated on over the course of 40+ years. Things like first person perspective controls being split across the two joysticks of a controller, left for movement, and right or looking or the use of the bottom button of the controller (A on Xbox, B on Nintendo, X on Playstation) for jumping in most 2D and 3D games were not standardized for a long time. Understanding where you should be going and where you should not be going (running into literal invisible walls) takes time to learn. For a wonderful discussion on the typic, check out the YouTube Series [Gaming For A Non-Gamer by Razbuten](https://youtube.com/playlist?list=PLordXx8iNEyStcX_WzqM0JCpiJYgqhinc&si=h_KEYU3UeGowxk-C). 
-### Second Solution
-Watching  is extremely time-consuming. Taking a look at list of popular games (according to [How Long to Beat](https://howlongtobeat.com/)) as of writing (Feb 2025), the average number of hours to complete just the story a game is trying to tell can easily creep up into more than 50 hours. ![[Pasted image 20250212165839.png]] If you're not playing the game, or very invested in the story of a game, these these gameplay videos will be hundreds of hours to try to watch the entire game. There's no way anyone would actually do that for anything more than something like Portal 2, but even then, watching for the purpose of understanding the content likely wouldn't be engaging. Our brain rotted attention span will be itching for our phones, and we'd lose the purpose of what we're trying to do.
-### Third Solution
+* Option 1 can be difficult for people who don't already play a lot of games. Gaming can have a very high barrier to entry. Most games have been build on assumptions and conventions that the artform has iterated on over the course of 40+ years. Things like first person perspective controls being split across the two joysticks of a controller, left for movement, and right or looking or the use of the bottom button of the controller (A on Xbox, B on Nintendo, X on Playstation) for jumping in most 2D and 3D games were not standardized for a long time. Understanding where you should be going and where you should not be going (running into literal invisible walls) takes time to learn. For a wonderful discussion on the typic, check out the YouTube Series [Gaming For A Non-Gamer by Razbuten](https://youtube.com/playlist?list=PLordXx8iNEyStcX_WzqM0JCpiJYgqhinc&si=h_KEYU3UeGowxk-C). 
+* Option 2 is extremely time consuming. Taking a look at list of popular games (according to [How Long to Beat](https://howlongtobeat.com/)) as of writing (Feb 2025), the average number of hours to complete just the story a game is trying to tell can easily creep up into more than 50 hours. ![[Pasted image 20250212165839.png]] If you're not playing the game, or very invested in the story of a game, these these gameplay videos will be hundreds of hours to try to watch the entire game. There's no way anyone would actually do that for anything more than something like Portal 2, but even then, watching for the purpose of understanding the content likely wouldn't be engaging. Our brain rotted attention span will be itching for our phones, and we'd loose the purpose of what we're trying to do.
