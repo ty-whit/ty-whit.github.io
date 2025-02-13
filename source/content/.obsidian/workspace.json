@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2bdb978d4eedf699",
+        "id": "6142c9a13d0ae3c5",
         "type": "tabs",
         "children": [
           {
-            "id": "1ce006a711cc0884",
+            "id": "ab59daea90c9b71e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Should my kids play/Reason for this blog (wip).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Reason for this blog (wip)"
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Should my kids play/Reason for this blog (wip).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Reason for this blog (wip)"
             }
           },
           {
@@ -109,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Should my kids play/Reason for this blog (wip).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Reason for this blog (wip)"
             }
           },
           {
@@ -123,7 +129,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -137,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Should my kids play/Reason for this blog (wip).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Reason for this blog (wip)"
             }
           },
           {
@@ -156,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4996a2b18d563af0",
+  "active": "ab59daea90c9b71e",
   "lastOpenFiles": [
+    "Should my kids play/images/Pasted image 20250212165839.png",
     "Should my kids play/Reason for this blog (wip).md",
     "Pasted image 20250212165839.png",
     "Should my kids play/images/it-takes-two-epic.png",
