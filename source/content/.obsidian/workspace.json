@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -180,20 +179,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4996a2b18d563af0",
+  "active": "ab59daea90c9b71e",
   "lastOpenFiles": [
-    "Pasted image 20250212165839.png",
     "Should my kids play/images/Pasted image 20250212165839.png",
+    "Games in progress/CrossCode.md",
+    "Can i sync this with other locations.md",
+    "Games in progress",
+    "category-folder/Some note.md",
+    "category-folder/index.md",
     "Should my kids play/Reason for this blog.md",
+    "Pasted image 20250212165839.png",
     "Should my kids play/images/it-takes-two-epic.png",
     "Should my kids play/images/it-takes-two-steam-scroll.png",
     "Should my kids play/images/it-takes-two-steam.png",
     "Should my kids play/images",
     "Pasted image 20250212160108.png",
     "Pasted image 20250212160115.png",
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "Can i sync this with other locations.md",
     "index.md",
     "Should my kids play",
     "2025-02-12.md",
