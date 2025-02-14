@@ -6,7 +6,7 @@ tags:
   - reviews
   - parenting
 ---
-CC I love gaming. I love playing games, I love learning about games, I love interpreting the stories and messages behind games. I love sharing games with new people. I also love playing games with my kids. I have no idea if my kids will love playing games as much as I do, but frankly, that's none of my business what they end up liking. 
+I love gaming. I love playing games, I love learning about games, I love interpreting the stories and messages behind games. I love sharing games with new people. I also love playing games with my kids. I have no idea if my kids will love playing games as much as I do, but frankly, that's none of my business what they end up liking. 
 
 However, being a parent, it is my responsibility to make sure that they are playing games that are appropriate for their development. This doesn't mean that I'm going to be forcing games like [Pajama Sam](https://en.wikipedia.org/wiki/Pajama_Sam) on them, but I definitely don't them playing [Grand Theft Auto V](https://en.wikipedia.org/wiki/Grand_Theft_Auto_V) until they can understand the differences between fantasy and reality when it comes to what they see on the screen. 
 ## Why not just ESRB? 
