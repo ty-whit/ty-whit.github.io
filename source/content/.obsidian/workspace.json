@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Should my kids play/Reason for this blog (wip).md",
+                "file": "Should my kids play/Reason for this blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reason for this blog (wip)"
+              "title": "Reason for this blog"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Should my kids play/Reason for this blog (wip).md",
+                "file": "Should my kids play/Reason for this blog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reason for this blog (wip)"
+              "title": "Outline of Reason for this blog"
             }
           },
           {
@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab59daea90c9b71e",
+  "active": "4996a2b18d563af0",
   "lastOpenFiles": [
     "Pasted image 20250212165839.png",
     "Should my kids play/images/Pasted image 20250212165839.png",
-    "Should my kids play/Reason for this blog (wip).md",
+    "Should my kids play/Reason for this blog.md",
     "Should my kids play/images/it-takes-two-epic.png",
     "Should my kids play/images/it-takes-two-steam-scroll.png",
     "Should my kids play/images/it-takes-two-steam.png",

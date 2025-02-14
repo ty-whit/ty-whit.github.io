@@ -1,6 +1,6 @@
 ---
 title: Reason for this blog
-draft: true
+draft: false
 tags:
   - gaming
   - reviews
@@ -52,5 +52,4 @@ Gaming Is a growing hobby that has grown out of being a super nerdy thing that i
 # Why am I writing this blog?
 I am writing this blog in hopes of being a friend who plays gaming. I love to dissect the narrative of all stories I consume. I try to draw parallels to real life event. I love discussing themes, ideas, content. I also have children. I want to show the world to my children. I want to show them the stories that have impacted me, the stories that have taught me the most important things about life. Will they understand them in the same way that I do? Obviously not, they’re different people. But that’s what I find beautiful about art. The story means something different to each person. 
 That said, there is a certain age that people should be interacting with different stories. Not all stories should be viewed at the same age. Just like you would never show your 8 year old The Godfather, and how I probably shouldn’t have shown my 3 year old Jurassic Park, I definitely don’t think I should be showing my children Grand Theft Auto (any entry in the series to be honest) and I don’t think they’re ready to engage with the deep and fast pasted mechanics of an RPG like CrossCode. There are is a level of skill and maturity that is required for each game. 
-
 Let me be your friend, and let me help you find which games are appropriate for you and your children. 
