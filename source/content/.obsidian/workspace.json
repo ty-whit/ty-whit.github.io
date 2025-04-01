@@ -11,14 +11,10 @@
             "id": "ab59daea90c9b71e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Should my kids play/Reason for this blog.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Reason for this blog"
+              "title": "New tab"
             }
           }
         ]
@@ -181,13 +177,13 @@
   },
   "active": "ab59daea90c9b71e",
   "lastOpenFiles": [
+    "Should my kids play/Reason for this blog.md",
     "Should my kids play/images/Pasted image 20250212165839.png",
     "Games in progress/CrossCode.md",
     "Can i sync this with other locations.md",
     "Games in progress",
     "category-folder/Some note.md",
     "category-folder/index.md",
-    "Should my kids play/Reason for this blog.md",
     "Pasted image 20250212165839.png",
     "Should my kids play/images/it-takes-two-epic.png",
     "Should my kids play/images/it-takes-two-steam-scroll.png",
