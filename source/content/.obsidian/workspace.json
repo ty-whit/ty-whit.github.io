@@ -11,10 +11,14 @@
             "id": "ab59daea90c9b71e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "masculinity/Feelings.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Feelings"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -162,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,6 +183,7 @@
   },
   "active": "ab59daea90c9b71e",
   "lastOpenFiles": [
+    "masculinity/Feelings.md",
     "Should my kids play/Reason for this blog.md",
     "Should my kids play/images/Pasted image 20250212165839.png",
     "Games in progress/CrossCode.md",
