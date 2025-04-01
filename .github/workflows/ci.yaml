@@ -7,6 +7,7 @@ on:
 
 jobs:
   build-and-test:
+    environment: github-pages
     runs-on: ubuntu-latest
     permissions:
       contents: write
