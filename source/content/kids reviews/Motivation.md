@@ -56,6 +56,4 @@ I am writing this blog in hopes of being a friend who plays gaming. I love to di
 
 That said, there is a certain age that people should be interacting with different stories. Not all stories should be viewed at the same age. Just like you would never show your 8 year old The Godfather, and how I probably shouldn’t have shown my 3 year old Jurassic Park, I definitely don’t think I should be showing my children Grand Theft Auto (any entry in the series to be honest) and I don’t think they’re ready to engage with the deep and fast pasted mechanics of an RPG like [[CrossCode]]. There are is a level of skill and maturity that is required for each game. 
 
-Let me be your friend, and let me help you find which games are appropriate for you and your children. 
-
-Did I break something
+Let me be your friend, and let me help you find which games are appropriate for you and your children.
