@@ -38,3 +38,4 @@ GOG
 Xbox
 PlayStation
 Switch
+Test
