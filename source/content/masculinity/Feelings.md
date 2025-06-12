@@ -5,6 +5,7 @@ tags:
   - therapy
   - morning
 draft: false
+date: 2025-04-01
 ---
 I started listening to *The Find Out Podcast* this week and came across this gem in the second episode. 
 

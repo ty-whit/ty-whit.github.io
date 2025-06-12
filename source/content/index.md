@@ -1,5 +1,6 @@
 ---
 title: Home
+date: 2025-06-12
 ---
 
 When I was a kid, I hated writing. I struggled getting started. I would always sit in front of the page for hours just trying to figure out the first sentence. It had to be the perfect hook for the one-page essay I was working on. 
