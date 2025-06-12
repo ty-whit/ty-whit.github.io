@@ -33,12 +33,8 @@ So, the ultimate questions: Should your child play this game? I recommend this g
 *Note:* I have only played the base game. I did see that there is some DLC for this game. I haven’t done any research on the DLC, so I cannot speak to the content or recommended age to play. On a very quick watch of the trailer and read of the description, it looks like it’s going to be mostly more of the same, but with maybe a bit more intense story line. I imagine that this will translate to more precise skills needed, any possibly heavier topics in the dialogs. If i decide to play it, I’ll link to the review I make for it here. 
 
 You can buy a digital copy of CloudPunk at the following locations: 
-[Steam](https://store.steampowered.com/app/746850/Cloudpunk/)
-
-[GOG](https://www.gog.com/en/game/cloudpunk)
-
-[Xbox](https://www.xbox.com/en-us/games/store/cloudpunk-xbs-x/9p91j18nc76v)
-
-[PlayStation](https://store.playstation.com/en-us/concept/10000251)
-
-[Switch](https://www.nintendo.com/us/store/products/cloudpunk-switch/?srsltid=AfmBOooNsGq3ppAaL-iJ9Cg_qGrR1r0_KXPLuw0jvRY0qyGdTYh5t8kX)
+- [Steam](https://store.steampowered.com/app/746850/Cloudpunk/)
+- [GOG](https://www.gog.com/en/game/cloudpunk)
+- [Xbox](https://www.xbox.com/en-us/games/store/cloudpunk-xbs-x/9p91j18nc76v)
+- [PlayStation](https://store.playstation.com/en-us/concept/10000251)
+- [Switch](https://www.nintendo.com/us/store/products/cloudpunk-switch/?srsltid=AfmBOooNsGq3ppAaL-iJ9Cg_qGrR1r0_KXPLuw0jvRY0qyGdTYh5t8kX)
