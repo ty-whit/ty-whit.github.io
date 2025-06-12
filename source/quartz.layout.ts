@@ -18,6 +18,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
+      "Blog icons created by Smashicons - Flaticon": "https://www.flaticon.com/free-icons/blog"
       // GitHub: "https://github.com/jackyzha0/quartz",
       // "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
