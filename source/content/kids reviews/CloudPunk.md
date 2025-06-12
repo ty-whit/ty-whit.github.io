@@ -34,7 +34,11 @@ So, the ultimate questions: Should your child play this game? I recommend this g
 
 You can buy a digital copy of CloudPunk at the following locations: 
 [Steam](https://store.steampowered.com/app/746850/Cloudpunk/)
+
 [GOG](https://www.gog.com/en/game/cloudpunk)
+
 [Xbox](https://www.xbox.com/en-us/games/store/cloudpunk-xbs-x/9p91j18nc76v)
+
 [PlayStation](https://store.playstation.com/en-us/concept/10000251)
+
 [Switch](https://www.nintendo.com/us/store/products/cloudpunk-switch/?srsltid=AfmBOooNsGq3ppAaL-iJ9Cg_qGrR1r0_KXPLuw0jvRY0qyGdTYh5t8kX)
