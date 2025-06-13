@@ -3,10 +3,9 @@ title: Masking and the trauma it causes
 tags:
   - adhd
   - autism
-  - neurodivergency
   - trauma
 draft: false
-date: 2025-06-12
+date created: 2025-06-13
 ---
 ---
 **Disclamer**<br>
