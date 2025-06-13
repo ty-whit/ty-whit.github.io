@@ -26,7 +26,7 @@ Before getting into its, let’s put a couple things into perspective. Trauma is
 We could make the case that the amount of trauma I’ve experienced due to my struggles caused by neurodivergence is minimal, but there are some things that have caused me difficulties in my daily experience, my relationships with other people, and my relationship with myself. The real issue with trauma is how long you hold onto it. Without allowing yourself the chance to process your trauma, it ends up eating away at your psyche, changing your neurological pathways, creating patterns of thought and actions that can do damage to your self physically and mentally. 
 
 Let’s take some examples: 
-## Rejection Sensitivity
+# Rejection Sensitivity
 
 One of the wonderful experiences of ADHD is Rejection Sensitivity Dysphoria (RSD). With this lovely collector’s item, I feel rejections much more quickly and much more intensely than I “should”. Now, I’m putting quotation marks around “should” because what is the appropriate reaction to rejection? How much emotion is “too much”? A common experience with people with ADHD is an extended range of emotions. My joy experience tends to go from zero to one hundred with the littlest of things. Likewise my anger flies off the handle at the smallest inconvenience. 
 
@@ -35,3 +35,10 @@ To live in this neurotypical world, I’ve had to learn mindfullness and practic
 There’s couple ways this leads to trauma being stored in the body. I don’t remember if I specifically knew about RSD at this time, but imagine I didn’t. I’m getting mad about a simple mistake, and now I’m experiencing anger, frustration, and self-degradation, with all of it directed inward. What happens next week when I hit the curb as I’m driving around a corner? Or next month when my boss points out a mistake I made and offers some constructive criticism in hopes that I can perform better? If not given the knowledge that I feel things at a much higher intensity than most people, this simple one-on-one conversation can quickly turn into self-doubt and self-hatred about how I’m the worst person ever. 
 
 In the one response comment I got from that user, he asked “wdym by unpacked?” Without ever knowing that I have ADHD and RSD, I never can give myself the chance to recognize my response patterns. Just like with clinical illnesses in the body, I cannot fight or change what I do not know about. However, just knowing that it’s a thing isn’t enough. You cannot change anything unless you dig back into your past and understand better where you have been. This is what I mean by unpacked. I had to look back at all the times where my anger went off the rails or my depression dragged me down and figure out if it was related to this thing. My body was holding onto all this shit without ever realizing that it was an experience that most people don’t have and that it is out of the range of normalcy. 
+
+# Executive Dysfunction
+Another common experience with ADHD is executive dysfunction. Imagine you’re sitting on the couch thinking “I really need to get those dishes done.” But you lack the ability to actually stand up and go to the sink. Instead you sit there and keep scrolling on Reddit. Thirty minutes later, you think to yourself again “dude, what the hell, get up and go do the dishes,” but you don’t move. Next think you know, it’s 1:35 AM, dishes are still dirty, and the guilt sets in.
+
+> You suck. You can’t actually get anything done. You say you’re going to do better next time, but you do this same thing every night. I bet those dishes have been there for a week by now. You can’t get anything done
+
+Turns out there’s a lot of little things you’ve been promising you’re going to do that don’t actually get done for whatever reasons. Promises you make to yourself, your partner, your friends, your family, all broken.
