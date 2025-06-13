@@ -5,11 +5,11 @@ tags:
   - autism
   - neurodivergency
   - trauma
-draft: true
+draft: false
 date: 2025-06-12
 ---
 ---
-*Disclamer*
+**Disclamer**<br>
 I’m going to say this at the beginning: if you’re neurodivergent, you almost certainly don’t need this article. This article is absolutely for the people who don’t know anything about the experience of having ADHD or Autism. However, if you’re recently diagnosed (self or clinically) or have close family or friends that you want to understand better, this will be a great read. On with the article!
 
 ---
