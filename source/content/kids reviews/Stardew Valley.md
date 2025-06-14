@@ -2,12 +2,10 @@
 title: Stardew Valley
 draft: true
 tags:
-  - gaming
   - indie
-  - parenting
   - genre/farming
   - genre/life-sim
-  - genre/cozy
+  - cozy-games
 genre:
 ---
 I didn’t grow up with the Nintendo home consoles. I grew up watching my mom play the Sega Genesis. Between all three classic sonic games, and the light gun game Lethal Enforcers, I never saw or heard anything about Harvest Moon. When I was a bit older, we got a PlayStation. Yes, I recognize that harvest moon did come to PlayStation pretty early in the series life, but I was living on the entire Crash Bandicoot and Spyro franchises at that point in time. Hundred-hour long JRPGs with epic story lines were not what we played when I was young. Much less farming or cute life sim games. 
