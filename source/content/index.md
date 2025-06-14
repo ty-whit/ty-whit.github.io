@@ -31,6 +31,7 @@ Gaming Accounts:
 
 <a href="https://steamcommunity.com/id/whitomaker/"><img class="badge" alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white"></a>
 <a href="https://whitomaker.itch.io/"><img class="badge" alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white"></a>
+<a href="https://www.gog.com/u/whitomaker"><img class="badge" alt="GOG" src="https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff&style=plastic"></a>
 
 Weird Places to follow me: 
 
@@ -49,6 +50,7 @@ My favorite Coding Languages, frameworks, IDEs (or at least the ones I could fin
 
 <a href="https://www.python.org"><img class="badge" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=fff"></a>
 <a href="https://julialang.org/"><img class="badge" alt="Julia" src="https://img.shields.io/badge/-Julia-9558B2?style=plastic&logo=julia&logoColor=white"></a>
+<a href="https://markdownl.com/"><img class="badge" alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white&stype=plastic"></a>
 
 <a href="https://fastapi.tiangolo.com/"><img class="badge" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi"></a>
 <a href="https://pandas.pydata.org/"><img class="badge" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=fff"></a>
