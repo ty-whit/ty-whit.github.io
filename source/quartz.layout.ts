@@ -6,15 +6,23 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-      Component.Comments({
-        provider: 'giscus',
-        options: {
-          repo: 'ty-whit/dads-thoughts',
-          repoId: 'R_kgDONqvP5Q',
-          category: 'Announcements',
-          categoryId: 'DIC_kwDONqvP5c4CrZ89'
-        }
-      }),
+      // Component.Comments({
+      //   provider: 'giscus',
+      //   options: {
+      //     repo: 'ty-whit/dads-thoughts',
+      //     repoId: 'R_kgDONqvP5Q',
+      //     category: 'Announcements',
+      //     categoryId: 'DIC_kwDONqvP5c4CrZ89'
+      //   }
+      // }),ts({
+      //   provider: 'giscus',
+      //   options: {
+      //     repo: 'ty-whit/dads-thoughts',
+      //     repoId: 'R_kgDONqvP5Q',
+      //     category: 'Announcements',
+      //     categoryId: 'DIC_kwDONqvP5c4CrZ89'
+      //   }
+      // }),
   ],
   footer: Component.Footer({
     links: {
