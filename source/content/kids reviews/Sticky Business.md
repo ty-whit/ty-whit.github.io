@@ -1,6 +1,6 @@
 ---
 title: Sticky Business
-draft: true
+draft: false
 tags:
   - indie
   - genre/store
@@ -15,9 +15,9 @@ The premise of Sticky Business is that you are starting an online sticker busine
 
 The most rewarding part of the gameplay is sticker creation. In the “Creator” menu of the game (perfectly represented by a drawing tablet), you are presented with an array of little images, words, shapes, and colors. You then have full creative control over the placement of these components, arranging them into whatever picture you want to make. Once created, the sticker goes up for sale on your online sticker store. 
 
-The game progresses in increments of days. Each day provides a certain amount of time that you can spend on different actions such as creating stickers, packing orders, and mailing orders. Each activity occupies a predetermined amount of time, meaning you can spend a much or as little time creating those stickers, and still be able to do everything else you feel like doing during that day.
+The game progresses by increments of days. Each day provides a certain amount of time that you can spend on different actions such as creating stickers, packing orders, and mailing orders. Each activity occupies a predetermined amount of time, meaning you can spend a much or as little time creating those stickers, and still be able to do everything else you feel like doing during that day.
 
-As you sell stickers, you earn two types of currency. The first is represented with a gold coin which is spent on stickers being printed to paper and extra goodies like candy to pack in with your orders. The second is more of an experience point which is spent on sticker components and colors, which allows you to create stickers in different categories 
+As you sell stickers, you earn two types of currency. The first is represented with a gold coin which is spent on stickers being printed to paper and extra goodies like candy to pack in with your orders. The second is more of an experience point which is spent on sticker components and colors, which allows you to create stickers in different categories. 
 
 Creating a diverse selection of stickers is an important part of the games progress. One of the reasons I think children should play this game is it gives them the chance to read other peoples’ stories. Characters will sometimes leave a message when sending in their order. They will tell you about the sibling they are fighting with, the leg they broke, or the projects they’re struggling to focus on. They will share their excitement for your new business, or the chance to trade stickers with their friends. These short messages are great chances to encourage your kids to read, understand, and empathize with other people, even if virtual. They also ask for specific types of stickers, giving you and your child a goal to work towards and suggestions to inspire your next creation. 
 
