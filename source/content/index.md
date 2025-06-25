@@ -20,8 +20,8 @@ Places to follow me
 **Regular Social medias**
 
 <a href="https://bsky.app/profile/tywhit91.bsky.social"><img class="badge" alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?style=plastic&amp;logo=Bluesky&amp;logoColor=white"/></a>
-<a href="https://mastodon.online/@tywhit"><img class="badge" alt="Mastodon" src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=plastic&amp;logo=mastodon&amp;logoColor=white"/></a>
-<a href="https://www.tiktok.com/@whitomaker?_t=ZT-8vBha2bk3nW&_r=1"><img class="badge" alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&amp;logo=TikTok&amp;logoColor=white"/></a>
+<a href="https://mastodon.online/@tywhit"><img class="badge" alt="Mastodon" src="https://img.shields.io/badge/-MASTODON-6364FF?style=plastic&amp;logo=mastodon&amp;logoColor=white"/></a>
+<a href="https://www.tiktok.com/@whitomaker?_t=ZT-8vBha2bk3nW&_r=1"><img class="badge" alt="TikTok" src="https://img.shields.io/badge/TikTok-000000.svg?style=plastic&amp;logo=TikTok&amp;logoColor=white"/></a>
 
 **RSS Feed for this blog:**
 
@@ -30,13 +30,13 @@ Places to follow me
 Gaming Accounts: 
 
 <a href="https://steamcommunity.com/id/whitomaker/"><img class="badge" alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white"></a>
-<a href="https://whitomaker.itch.io/"><img class="badge" alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white"></a>
+<a href="https://whitomaker.itch.io/"><img class="badge" alt="Itch.io" src="https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=plastic&logo=Itch.io&logoColor=white"></a>
 <a href="https://www.gog.com/u/whitomaker"><img class="badge" alt="GOG" src="https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff&style=plastic"></a>
 
 Weird Places to follow me: 
 
 <a href="https://music.apple.com/profile/tywhit91"><img class="badge" alt="Apple Music" src="https://img.shields.io/badge/Apple%20Music-FA243C?style=plastic&logo=apple%20music&logoColor=white)"></a>
-<a href="https://github.com/ty-whit"><img class="badge" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"></a>
+<a href="https://github.com/ty-whit"><img class="badge" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=github&logoColor=white"></a>
 
 Streaming Account (if I ever decide to do that) 
 
@@ -44,7 +44,7 @@ Streaming Account (if I ever decide to do that)
 
 If you really want to make a donation
 
-<a href="https://www.paypal.com/paypalme/tywhit91"><img class="badge" alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white"></a>
+<a href="https://www.paypal.com/paypalme/tywhit91"><img class="badge" alt="PayPal" src="https://img.shields.io/badge/PayPal-003087?style=plastic&logo=paypal&logoColor=white"></a>
 
 My favorite Coding Languages, frameworks, IDEs (or at least the ones I could find these badges for)
 
@@ -54,11 +54,11 @@ My favorite Coding Languages, frameworks, IDEs (or at least the ones I could fin
 
 <a href="https://fastapi.tiangolo.com/"><img class="badge" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi"></a>
 <a href="https://pandas.pydata.org/"><img class="badge" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=fff"></a>
-<a href=""><img class="badge" alt="NumPy" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff&style=plastic"></a>
+<a href=""><img class="badge" alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic"></a>
 
-<a href="https://pages.github.com/"><img class="badge" alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white&style=plastic"></a>
+<a href="https://pages.github.com/"><img class="badge" alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=github&logoColor=white&style=plastic"></a>
 <a href="https://github.com/"><img class="badge" alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=plastic"></a>
 
 <a href="https://code.visualstudio.com/"><img class="badge" alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=whites&style=plastic"></a>
 <a href="https://www.jetbrains.com/pycharm/"><img class="badge" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=plastic"></a>
-<a href="https://obsidian.com/"><img class="badge" alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white&style=plastic"></a>
+<a href="https://obsidian.com/"><img class="badge" alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED.svg?&logo=obsidian&logoColor=white&style=plastic"></a>
