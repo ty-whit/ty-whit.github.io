@@ -3,7 +3,7 @@ title: Sticky Business
 draft: false
 tags:
   - indie
-  - genre/store
+  - genre/simulation
   - cozy-games
 date: 2025-06-16
 ---
