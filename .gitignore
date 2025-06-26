@@ -4,6 +4,7 @@ source/quartz/.quartz-cache
 source/node_modules
 source/content/.obsidian/*
 /.obsidian/*
+/.obsidian/mobile_workspace.json
 .vscode/*
 .idea/*
 content/.obsidian/workspace.json
