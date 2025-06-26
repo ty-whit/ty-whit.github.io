@@ -1,5 +1,5 @@
 ---
-title: Should your kids play CloudPunk?
+title: CloudPunk
 draft: false
 tags:
   - genre/cyberpunk
