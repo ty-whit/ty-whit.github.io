@@ -23,11 +23,11 @@ Creating a diverse selection of stickers is an important part of the games progr
 
 The best part of all is that you can save you creations to files on your hard drive as images to your computer. You can then do what you like with these images: take them to a local print shop and print your stickers in real life, import them to your phone as stickers or emoji reactions in your preferred message service, build a custom wallpaper for your phone or computer, decorate your site hosted for the indie web. Here's a couple of mine. 
 
-<img style='width: 33%;' src="../images/kids%20reviews/Sticky%20Business/emergency_meeting.png">
+<img style='width: 33%;' src="../images/Kids%20Reviews/Sticky%20Business/emergency_meeting.png">
 
-<img style='width: 33%;' src='../images/kids%20reviews/Sticky%20Business/imposter.png'>
+<img style='width: 33%;' src='../images/Kids%20Reviews/Sticky%20Business/imposter.png'>
 
-<img style='width: 33%;' src="../images/kids%20reviews/Sticky%20Business/victorycoffee.png">
+<img style='width: 33%;' src="../images/Kids%20Reviews/Sticky%20Business/victorycoffee.png">
 
 Bringing it all together, Sticky Business is great because it encourages time management, creativity, and empathy all in an extremely cute packages delivered to you with a side of relaxation and accessibility. All of the things this game teaches can also be brought into the real world, as well as the products from it. Combined with the very low price tag, you should absolutely buy this game. The only thing this game is missing is a mobile port. Your kids should okay it and frankly, you should too. Here's all the links I can find. 
 
