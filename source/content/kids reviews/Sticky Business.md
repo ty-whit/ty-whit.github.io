@@ -21,7 +21,13 @@ As you sell stickers, you earn two types of currency. The first is represented w
 
 Creating a diverse selection of stickers is an important part of the games progress. One of the reasons I think children should play this game is it gives them the chance to read other peoples’ stories. Characters will sometimes leave a message when sending in their order. They will tell you about the sibling they are fighting with, the leg they broke, or the projects they’re struggling to focus on. They will share their excitement for your new business, or the chance to trade stickers with their friends. These short messages are great chances to encourage your kids to read, understand, and empathize with other people, even if virtual. They also ask for specific types of stickers, giving you and your child a goal to work towards and suggestions to inspire your next creation. 
 
-The best part of all is that you can save you creations to files on your hard drive as images to your computer. You can then do what you like with these images: take them to a local print shop and print your stickers in real life, import them to your phone as stickers or emoji reactions in your preferred message service, build a custom wallpaper for your phone or computer, decorate your site hosted for the indie web. 
+The best part of all is that you can save you creations to files on your hard drive as images to your computer. You can then do what you like with these images: take them to a local print shop and print your stickers in real life, import them to your phone as stickers or emoji reactions in your preferred message service, build a custom wallpaper for your phone or computer, decorate your site hosted for the indie web. Here's a couple of mine. 
+
+<img style='width: 33%;' src="../images/kids%20reviews/Sticky%20Business/emergency_meeting.png">
+
+<img style='width: 33%;' src='../images/kids%20reviews/Sticky%20Business/imposter.png'>
+
+<img style='width: 33%;' src="../images/kids%20reviews/Sticky%20Business/victorycoffee.png">
 
 Bringing it all together, Sticky Business is great because it encourages time management, creativity, and empathy all in an extremely cute packages delivered to you with a side of relaxation and accessibility. All of the things this game teaches can also be brought into the real world, as well as the products from it. Combined with the very low price tag, you should absolutely buy this game. The only thing this game is missing is a mobile port. Your kids should okay it and frankly, you should too. Here's all the links I can find. 
 
