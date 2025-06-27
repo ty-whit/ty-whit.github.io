@@ -1,6 +1,6 @@
 ---
 title: Why I paint my nails
-draft: false
+draft: true
 date: 2025-06-25
 tags:
   - masculinity
