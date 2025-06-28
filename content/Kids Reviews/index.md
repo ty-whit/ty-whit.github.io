@@ -1,5 +1,6 @@
 ---
 title: Kids Reviews
+comments: false
 ---
 Sometimes picking a game for our kids is difficult. In my opinion, there's nothing better than a personal recommendation from a friend who knows what they're talking about. While you may not know me individually, I'd like to get as close to that as possible. I talk about this in much more details in [[Motivation|Reason for this blog]]. Go check it out. 
 

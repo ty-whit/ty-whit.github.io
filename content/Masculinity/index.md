@@ -1,5 +1,6 @@
 ---
 title: Masculinity
+comments: false
 ---
 
 I fundamentally disagree with most of the claims made around masculinity here in the West. I have spent a lot of time deconstructing my ideas about masculinity, how I choose to present it, and what it means to identify as a "Man." 
