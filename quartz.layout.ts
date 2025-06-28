@@ -5,7 +5,17 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+      Component.Comments({
+        provider: 'giscus',
+        options: {
+          repo: 'ty-whit/dads-thoughts',
+          repoId: 'R_kgDOPCm30Q',
+          category: 'Announcements',
+          categoryId: 'DIC_kwDOPCm30c4CsFf6'
+        }
+      })
+  ],
   footer: Component.Footer({
     links: {
       "Page icon from Flaticon": "https://www.flaticon.com/free-icons/blog"
