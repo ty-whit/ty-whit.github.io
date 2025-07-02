@@ -9,14 +9,6 @@ In later years, I've noticed that writing out my thoughts has been a helpful way
 
 Places to follow me 
 
-<style> 
-.badge {
-    padding-left: 0; 
-    margin: 0 0 0 0;
-    padding-top: 0;
-    padding-bottom: 0;
-}
-</style>
 **Regular Social medias**
 
 <a href="https://bsky.app/profile/tywhit91.bsky.social"><img class="badge" alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?style=plastic&amp;logo=Bluesky&amp;logoColor=white"/></a>

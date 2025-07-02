@@ -1,4 +1,9 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-@use "themes";
+img.badge {
+    padding-left: 0; 
+    margin: 0 0 0 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}

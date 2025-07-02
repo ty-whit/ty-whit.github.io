@@ -31,14 +31,6 @@ The best part of all is that you can save you creations to files on your hard dr
 
 Bringing it all together, Sticky Business is great because it encourages time management, creativity, and empathy all in an extremely cute packages delivered to you with a side of relaxation and accessibility. All of the things this game teaches can also be brought into the real world, as well as the products from it. Combined with the very low price tag, you should absolutely buy this game. The only thing this game is missing is a mobile port. Your kids should okay it and frankly, you should too. Here's all the links I can find. 
 
-<style> 
-.badge {
-    padding-left: 0; 
-    margin: 0 0 0 0;
-    padding-top: 0;
-    padding-bottom: 0;
-}
-</style>
 
 [Spellgarden Games (devs)](https://spellgardengames.com/)
 - <a href="https://store.steampowered.com/app/2303350/Sticky_Business?utm_source=website&utm_campaign=spellgarden"><img class="badge" alt="Steam Link" src="https://img.shields.io/badge/Steam-%23000000.svg?style=plastic&logo=steam&logoColor=white"></a>
