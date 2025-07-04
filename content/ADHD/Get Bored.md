@@ -1,6 +1,11 @@
 ---
 title: How to get bored
 draft: false
+tags:
+  - adhd
+  - depression
+  - tech
+  - boredom
 ---
 # Stuck in the loop
 I sometimes have this bad habit of trying to watch YouTube videos while I work. It is never as productive as I want it to be. Often times I'll just sit there, scrolling through while I try to find something interesting. It also depends a lot on the type of task that I'm doing that day. If it's one of those more brainless tasks like copying and pasting a bunch of data, that's fairly easy. Debugging a script that takes about 5 minutes will almost always have something going on in a different window or screen. I recognize what my problem is: Boredom.
@@ -85,4 +90,4 @@ I'm scared of my own thoughts, and I'm terrified to leave myself alone with them
 # What's the point? 
 I don't have a good point. I saw a cool video that I wanted to share and talk about. I wanted to call out how ADHD sometimes feels. I wanted to give myself something specific to do so that I don't actually think about how scared I am of the United States under a dictator who is trying to deport or jail everyone that isn't white and christian. I'm wanted to participate more on what I've been seeing people say about the #IndieWeb and #AlgorithmFree summers. 
 
-At the end of the day, I just want to be more mindful, and 
+At the end of the day, I just want to be more mindful about how I spend my time. I’m still learning how to manage those thoughts and that free time better. 
