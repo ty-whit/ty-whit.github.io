@@ -2,13 +2,14 @@
 title: How to get bored
 draft: true
 ---
-
+# Stuck in the loop
 I sometimes have this bad habit of trying to watch YouTube videos while I work. It is never as productive as I want it to be. Often times I'll just sit there, scrolling through while I try to find something interesting. It also depends a lot on the type of task that I'm doing that day. If it's one of those more brainless tasks like copying and pasting a bunch of data, that's fairly easy. Debugging a script that takes about 5 minutes will almost always have something going on in a different window or screen. I recognize what my problem is: Boredom.
 
 I can't stand being bored. I have to have something playing in my brain at all times. This damn thing that we call ADHD gets the best of me quite often and I feel like I have to have something going on while I work on other things. Whether it's a podcast while I drive, a video while I do dishes, or some music while work, something must be going on in by brain. I know it's getting especially bad when I instinctively pull out my phone to watch TikTok while I fill up my cup at the fridge or walk up the stairs. I often catch myself trying to finish a video I started in the bathroom while I wash my hands, only to find myself scrolling to the next video (or past the next three) using my nose because my hands are wet. 
 
 I've tried to stop at least the social media addiction before through things like time limits on my phone, or removing TikTok and other socials for a bit just to give myself a reset. However, I often find myself barreling past my timers, ignoring my downtime limiters, and just scrolling and flipping back and forth just constantly. It get's prety depressing sometimes. 
 
+# Finding the cure
 I often float around the self-help, phosophical, journaling, and minimalisim sides of YouTube in addition to a lot of the gaming and tech related content I get. I've seen a wide variety of videos about switching to a dumb phone, be it a high-tech modern dumb phone like those made by Punkt or LightPhone, or a fairly simple, older style flip phone. I've even seen a fair share of videos talking about how to set up different iOS and Android launchers to as if they were a light phone. One of my favorite flavors of these videos is actually the "dedicated devices" experiences, where the author talks about how life-changing it was to have dedicated things in their bags for each of the needs: 
 - the iPod for audiophile levels of algorithmless music listeneing
 - the childhood Gameboy Advance or Nintendo DS to play all the retro classics
@@ -66,13 +67,16 @@ While I long for this type of lifestyle, I also recognize I am a tinker that lov
 	- Write this blog
 
 Basically, instead of having five devices that each do one thing, I have almost 10 devices that I have forced to do as many things as they possibly can. 
-
+# Why am I like this
 Do I recommend this lifestyle? No. Not really. I like doing it because I find it entertaining to say “Check it out! I made this thing talk to this other thing. Why does it need to? Hell if I know, but it can!” Most of the time, it’s convoluted, it’s rarely practical, but I always enjoy the satisfaction from when it works. 
 
 But frankly, this is also exactly how I see my job as a software developer. With the difference being that it’s almost always practical because someone has a problem they need solved. I’m never making something do something it wasn’t designed for, because someone designed the language, packages, and framework for exactly those purposes. None the less, I get the same satisfaction of finally hitting the “Run” button of my IDE, and it works perfectly. 
 
 Though, never on the first try. In either set of projects. There’s inevitably a troubleshooting process, a debugging phase, a rework and refactoring sprint. But that’s where the learning happens. This of where you do the deep dive through the Reddit posts, the stack overflow threads, the documentation. If it gets bad enough, you go job free Discord or slack server to search the conversation history or even ask for help. 
 
+# It’s been inside me all along
 In my attempt to find a background video for work one of these days, I found [this guy’s video](https://www.youtube.com/watch?v=QLY5yMoHjYs). First, I came across his video taking about his experience with the bag full of dedicated devices. In it, he mentioned the actual video I linked here, where he talks about how to get your childhood brain back. Go watch it, but it boils down to “let yourself be bored.” You’ll give your brain the space to desire new things other than social media. It gives you the chance to heal from this dopamine fatigue.
 
-The thing I realized that all the examples he gives are exactly what I’m doing with this endless tinkering. But i let myself tinker with things because in the end it teaches me about my job. How to sync SSH keys across my devices, how to find the logs for a specific software. How to pace GitHib issues when things aren’t doing what I expect. How to find when new bugs are introduced because an external api changed their schema. How to use the framework to make modifications to the output. How to write bash scripts to launch the application from the GUI. 
+The thing I realized that all the examples he gives are exactly what I’m doing with this endless tinkering. But I let myself tinker with things because in the end it teaches me about my job. How to sync SSH keys across my devices, how to find the logs for a specific software. How to pace GitHib issues when things aren’t doing what I expect. How to find when new bugs are introduced because an external api changed their schema. How to use the framework to modify the output. How to write bash scripts to launch the application from the start menu. This clearly is my ADHD hyper fixation: Make it work. 
+
+I’ve been bored for years, constantly seeking out new things to break, fix, and make work in new ways. Jumping back and forth between many different projects all within a short week’s span. 
