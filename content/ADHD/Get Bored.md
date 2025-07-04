@@ -23,6 +23,7 @@ While I long for this type of lifestyle, I also recognize I am a tinker that lov
     - stream music and movies from plex
     - emulate retro games
     - play modern iOS games
+    - record and produce music (if I were any good)
 - an android phone that can 
     - play android games,
     - read the same books
@@ -31,6 +32,47 @@ While I long for this type of lifestyle, I also recognize I am a tinker that lov
     - play modern Android games
     - play Pico-8 Games (I should write a [[Pico-8|Kids Revies]] for that..)
 - a Nintendo 3DS that can 
-    - play 
+    - play anything 3DS, 
+    - DS, 
+    - or emulate most retro console
+    - accept files as an FTP server 
+    - Stream video from the device to a local computer 
+    - produce music (see prior comment about being no good)
+- A game boy advance so that
+	- still has the some old save files from Pokémon and legend of Zelda
+	- And a flash cart that plays all the game boy (original, color, and advance) games I could ever want
+	- Can also produce music (can you tell I *want* to be a musician?)
+- A Steam deck that I’ve used to
+	- play any modern game from all the game stores,
+	- Emulate pretty much any consoles, retro or recent old gen,
+	- Stream shows and YouTube, 
+	- attempt to read comics
+	- Stream gameplay to twitch
+- A Linux based gaming device that I sadly lost, but was configured to
+	- emulate all the retro classics
+	- play Pico-8 natively, not emulated
+	- produce music in yet another method. 
+	- Sync all my save files so that I could also access in my steam deck
+	- Play music like an mp3 player, though, frankly the experience sucked. 
+- a Kobo ereaded that
+	- I actually use to read my books and comics,
+	- I hacked to connect to a server I have in my home to download and manage my books
+	- had an alternate reading application installed so that I can download pdfs directly to the device from that server without needing to plug in and sideload those files. 
+- several computers that use to 
+	- host applications for my own house, 
+	- Host gaming servers for Minecraft, Starbound, and Valheim multiplayer, 
+	- Mess around with different scripts, programming languages, frameworks, textbooks examples
+	- customizing my themes on all my software,
+	- Write this blog
 
-https://www.youtube.com/watch?v=QLY5yMoHjYs
+Basically, instead of having five devices that each do one thing, I have almost 10 devices that I have forced to do as many things as they possibly can. 
+
+Do I recommend this lifestyle? No. Not really. I like doing it because I find it entertaining to say “Check it out! I made this thing talk to this other thing. Why does it need to? Hell if I know, but it can!” Most of the time, it’s convoluted, it’s rarely practical, but I always enjoy the satisfaction from when it works. 
+
+But frankly, this is also exactly how I see my job as a software developer. With the difference being that it’s almost always practical because someone has a problem they need solved. I’m never making something do something it wasn’t designed for, because someone designed the language, packages, and framework for exactly those purposes. None the less, I get the same satisfaction of finally hitting the “Run” button of my IDE, and it works perfectly. 
+
+Though, never on the first try. In either set of projects. There’s inevitably a troubleshooting process, a debugging phase, a rework and refactoring sprint. But that’s where the learning happens. This of where you do the deep dive through the Reddit posts, the stack overflow threads, the documentation. If it gets bad enough, you go job free Discord or slack server to search the conversation history or even ask for help. 
+
+In my attempt to find a background video for work one of these days, I found [this guy’s video](https://www.youtube.com/watch?v=QLY5yMoHjYs). First, I came across his video taking about his experience with the bag full of dedicated devices. In it, he mentioned the actual video I linked here, where he talks about how to get your childhood brain back. Go watch it, but it boils down to “let yourself be bored.” You’ll give your brain the space to desire new things other than social media. It gives you the chance to heal from this dopamine fatigue.
+
+The thing I realized that all the examples he gives are exactly what I’m doing with this endless tinkering. But i let myself tinker with things because in the end it teaches me about my job. How to sync SSH keys across my devices, how to find the logs for a specific software. How to pace GitHib issues when things aren’t doing what I expect. How to find when new bugs are introduced because an external api changed their schema. How to use the framework to make modifications to the output. How to write bash scripts to launch the application from the GUI. 

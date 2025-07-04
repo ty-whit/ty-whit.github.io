@@ -2,4 +2,4 @@
 title: Pico-8
 ---
 
-(ideas are a work in progress)
+Ideas are a work in progress. Please be patient while I work on this entry. 
